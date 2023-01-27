@@ -22,11 +22,13 @@
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                flex-direction: column;
                 height: 100vh;
             }
         </style>
     </head>
     <body class="antialiased">
         <h1>Hello, World!</h1>
+        <p>Quanto è bello sto font, ti viene voglia di scrivere.</p>
     </body>
 </html>
